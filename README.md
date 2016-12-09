@@ -8,7 +8,7 @@ Data for this project can be obtained from
 https://www.kaggle.com/c/home-depot-product-search-relevance
 
 
-Prerequisites
+Prerequisites  
 1) Installation steps for genism  
 https://radimrehurek.com/gensim/install.html  
 easy_install -U gensim
