@@ -4,13 +4,13 @@ In this competition, Home Depot is asking to help them improve their customers' 
 
 Getting Started
 
-Data for this project can be obtained from
+Data for this project can be obtained from  
 https://www.kaggle.com/c/home-depot-product-search-relevance
 
 
 Prerequisites
-1) Installation steps for genism 
-https://radimrehurek.com/gensim/install.html
+1) Installation steps for genism  
+https://radimrehurek.com/gensim/install.html  
 easy_install -U gensim
 
 2) Install Inflect Pip install inflect
